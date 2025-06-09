@@ -1,2 +1,12 @@
 # cRPG
-Basic C++ RPG game
+# Basic C++ RPG game
+
+
+
+
+```
+make
+
+./rpg
+
+```
